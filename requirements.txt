@@ -1,4 +1,3 @@
-streamlit>=1.36
-pandas>=2.0
-plotly>=5.20
-EOF
+streamlit==1.38.0
+pandas==2.2.2
+plotly==5.24.1
