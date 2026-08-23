@@ -1,0 +1,9 @@
+BIRD SPECIES OBSERVATION ANALYSIS — KEY EDA INSIGHTS
+=======================================================
+
+1. Species richness — Forest: 108 species, Grassland: 107 species.
+2. Most-observed administrative unit: ANTI (3,463 observations).
+3. Peak observation month overall: June.
+4. Most frequently observed species overall: Northern Cardinal (1,125 observations).
+5. 2.5% of observations are of PIF Watchlist species (species of conservation concern).
+6. Most common detection method: Singing.

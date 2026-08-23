@@ -1,0 +1,11 @@
+BIRD OBSERVATION DATA - CLEANING SUMMARY
+==================================================
+Forest raw rows: 8,546
+Grassland raw rows: 8,531
+Combined raw rows: 17,077
+Duplicates removed: 1,709
+Rows without species ID removed: 0
+Final cleaned rows: 15,368
+Unique species (Scientific_Name): 127
+Admin units covered: ['ANTI', 'CATO', 'CHOH', 'GWMP', 'HAFE', 'MANA', 'MONO', 'NACE', 'PRWI', 'ROCR', 'WOTR']
+Years covered: [2018]
