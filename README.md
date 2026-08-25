@@ -131,6 +131,9 @@ python scripts/02_eda.py          # regenerates charts in outputs/
 **Ethan** — [GitHub: MAVERICKK97](https://github.com/MAVERICKK97)
 
 ---
+**Live Dashboard:** https://bird-species-analysis.streamlit.app/
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/f1605ecc-1bfe-41e4-a12f-2376e18b0498" />
+
 
 ## 📃 License
 
